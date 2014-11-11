@@ -1,0 +1,12 @@
+CPAN_AUTHOR=miyagawa
+inherit perl
+
+NAME="perl-Web-Scraper"
+VERSION=0.38
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl Web Scraping module"
+DESCRIPTION="Perl Web Scraping Toolkit using HTML and CSS Selectors or XPath
+expressions"
+
+ARCH=noarch
